@@ -1,2 +1,3 @@
-user.name: zjlolife
-    password: aaa519760
+user:
+  name: zjlolife
+  password: aaa519760
